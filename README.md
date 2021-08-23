@@ -1,4 +1,4 @@
-### Hey There! :wave:
+### Hey There!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 My name is Kevin Bellagamba and I am currently working as a Business Development Manager in the construction industry.  
 I am a student at Coding Dojo, working towards becoming a full stack developer and finding my footing in the industry!
