@@ -3,7 +3,6 @@
 My name is Kevin Bellagamba and I am currently working as a Business Development Manager in construction supply.  
 I am a student at Coding Dojo, working towards becoming a full stack developer and finding my footing in the industry!
 
-
 - :trophy: I’m a big football fan (Cleveland Browns) and an avid gamer (Call of Duty and League of Legends)
 - 🌱 I’m currently learning Python and Django
 - :man_student: University of Massachusetts Amherst alumni and Coding Dojo student
