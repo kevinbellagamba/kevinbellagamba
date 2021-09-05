@@ -19,7 +19,7 @@ I am a student at Coding Dojo, working towards becoming a full stack developer a
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-   <a href="#">
+  <a href="#">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 
