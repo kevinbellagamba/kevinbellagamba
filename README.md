@@ -15,7 +15,7 @@ I am a student at Coding Dojo, working towards becoming a full stack developer a
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-   <a href="mailto:bellagamba.ke@gmail.com">
+  <a href="mailto:bellagamba.ke@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   
