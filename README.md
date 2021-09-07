@@ -27,7 +27,6 @@ I am a student at Coding Dojo, working towards becoming a full stack developer a
 
 ### Languages and Tools:
 
-
 <p align= "left">
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp; 
