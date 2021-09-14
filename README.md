@@ -40,7 +40,6 @@ I am a student at Coding Dojo, working towards becoming a full stack developer a
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> &nbsp; 
 </p>
 
-
 ---
 
 ### GitHub Stats:
