@@ -9,7 +9,6 @@ I am a student at Coding Dojo, working towards becoming a full stack developer a
 
 ---
 
-
 ### Connect with me:
 
   <a href="https://www.linkedin.com/in/kevinbellagamba">
