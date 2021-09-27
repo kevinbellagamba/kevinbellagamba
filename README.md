@@ -50,7 +50,6 @@ I am a student at Coding Dojo, working towards becoming a full stack developer a
  <a href="#"><img src="https://badges.pufler.dev/visits/kevinbellagamba/kevinbellagamba"></a>
 
 ---
-
 <!---
 kevinbellagamba/kevinbellagamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
