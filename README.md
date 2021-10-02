@@ -48,7 +48,6 @@ I am a student at Coding Dojo, working towards becoming a full stack developer a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbellagamba&show_icons=true&theme=tokyonight)](https://github.com/kevinbellagamba/github-readme-stats)
 
  <a href="#"><img src="https://badges.pufler.dev/visits/kevinbellagamba/kevinbellagamba"></a>
-
 ---
 <!---
 kevinbellagamba/kevinbellagamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
