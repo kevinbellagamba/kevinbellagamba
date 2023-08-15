@@ -43,11 +43,11 @@ I am a graduate of Coding Dojo, working towards becoming a full stack developer 
 ---
 
 ### GitHub Stats:
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinbellagamba&show_icons=true&theme=tokyonight)  
+<!---![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinbellagamba&show_icons=true&theme=tokyonight)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbellagamba&show_icons=true&theme=tokyonight)](https://github.com/kevinbellagamba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbellagamba&show_icons=true&theme=tokyonight)](https://github.com/kevinbellagamba/github-readme-stats) --->
 
- <a href="#"><img src="https://badges.pufler.dev/visits/kevinbellagamba/kevinbellagamba"></a>
+ <a href="#"><img src="https://badges.pufler.dev/visits/kevinbellagamba/kevinbellagamba"></a> 
 ---
 <!---
 kevinbellagamba/kevinbellagamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
